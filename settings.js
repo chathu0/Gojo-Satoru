@@ -22,27 +22,27 @@ global.APIKeys = {
 global.owner = ['94764259590']
 global.premium = ['94764259590']
 global.ownernomer = '94764259590'
-global.ownername = 'chathuwa'
-global.botname = 'chathuwa'
-global.footer = 'chathuwa'
+global.ownername = 'Owner Devil👿☠️🤖'
+global.botname = 'Devil Bot😈'
+global.footer = 'Devil😈☠️'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'chathuwa official'
-global.author = 'C D M'
+global.packname = 'chathuwa official😈☠️'
+global.author = 'C D M🥵'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','👿','👿','👿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    success: 'Done ✓😈',
+    admin: 'This Feature Is Only For Admin!👿',
+    botAdmin: 'Bot Must Be Admin First!👿',
+    owner: 'This Feature Is Only For Owner!👿☠️',
+    group: 'Feature Used Only For Groups!☠️',
+    private: 'Features Used Only For Private Chat!😈',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'ටිකක් ඉන්න😁...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
